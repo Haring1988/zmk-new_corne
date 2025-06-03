@@ -329,7 +329,7 @@ layers:
   - Ctl+C
   - Ctl+V
   - Ctl+B
-  - Ctl+J
+  - Ctl+P
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -338,8 +338,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
-  - $$mdi:keyboard-tab$$
-  - $$mdi:apple-keyboard-option$$
+  - Ctl+J
+  - Ctl+P
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:backspace$$', type: backspace}
