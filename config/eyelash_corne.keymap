@@ -208,8 +208,8 @@
             bindings = <
 &trans  &kp LC(J)            &kp LA(LC(W))  &kp LC(LSHFT)  &kp LC(Y)  &kp LG(TAB)                       &trans          &kp INS          &trans    &trans    &trans  &kp BSPC   &trans
 &trans  &mt LA(LC(A)) LC(A)  &kp LC(S)      &kp LG(D)      &kp LC(F)  &kp LG(L)                 &trans  &trans  &trans  &kp PRINTSCREEN  &trans    &trans    &trans  &kp ENTER  &trans
-&trans  &kp LC(Z)            &kp LC(X)      &kp LC(C)      &kp LC(V)  &kp LC(B)    &kp LC(J)            &trans          &trans           &trans    &trans    &trans  &trans     &trans
-                                            &trans         &kp TAB    &kp LALT                                          &kp SPACE        &kp BSPC  &kp BSPC
+&trans  &kp LC(Z)            &kp LC(X)      &kp LC(C)      &kp LC(V)  &kp LC(B)    &kp LC(P)            &trans          &trans           &trans    &trans    &trans  &trans     &trans
+                                            &trans         &kp LC(J)  &kp LC(P)                                         &kp SPACE        &kp BSPC  &kp BSPC
             >;
 
             sensor-bindings = <&inc_dec_kp LC(P) LC(P)>;
